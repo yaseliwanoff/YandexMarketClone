@@ -1,5 +1,3 @@
-# Vue 3 + Vite
+# Yandex Market
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+The project is a clone of the company's original project, called Yandex Market. This project was implemented for educational purposes and for personal practice and interest. The project itself repeats the appearance of the original project as accurately as possible, including the functional part.
