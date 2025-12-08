@@ -1,7 +1,7 @@
 <script setup>
-import "./Header.css"
+import "./Header.css";
 </script>
 
 <template>
-    <header>header</header>
+  <header>header</header>
 </template>

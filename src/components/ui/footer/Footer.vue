@@ -1,7 +1,7 @@
 <script setup>
-import "./Footer.css"
+import "./Footer.css";
 </script>
 
 <template>
-    <footer>footer</footer>
+  <footer>footer</footer>
 </template>

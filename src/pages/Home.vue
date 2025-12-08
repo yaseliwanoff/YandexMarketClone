@@ -1,7 +1,7 @@
 <script setup>
-import HeroSlider from '../components/ui/main/HomeSections/HeroSlider/HeroSlider.vue';
+import HeroSlider from "../components/ui/main/HomeSections/HeroSlider/HeroSlider.vue";
 </script>
 
 <template>
-    <HeroSlider />
+  <HeroSlider />
 </template>
